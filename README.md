@@ -1,6 +1,6 @@
 <!-- Header Section: https://giphy.com/stickers -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dvbGc3NDdnM3gxZTU2cWJsYXRzM3F1aHBpMXVqNGw0dmEzMG9ycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" style="width:46%;height:0;padding-bottom:75%;position:relative;"/>
 </div>
 
 <!-- Badge Section: https://shields.io/ -->
