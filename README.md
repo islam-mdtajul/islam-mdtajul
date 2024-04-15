@@ -13,8 +13,10 @@
   </a>
 </div>
 
-<!-- Profile Views-->
-<img src="https://komarev.com/ghpvc/?username=islam-tajul&style=flat-square&color=blue" alt=""  style="position : center; "/>
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=islam-tajul&style=flat-square&color=blue" alt=""/>
+</div>
 
 <!-- Welcome Note -->
 <h1>
