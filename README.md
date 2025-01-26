@@ -5,7 +5,7 @@
 
 <!-- Badge Section: https://shields.io/ -->
 <div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/islammdtajul/">
+  <a href="https://www.linkedin.com/in/islam-mdtajul/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.xing.com/profile/MdTajul_Islam4">
@@ -35,7 +35,7 @@ Hello there! I'm Md Tajul Islam, a dedicated Software Engineer based in Berlin M
 - 💻 Currently, I'm working as a Software Engineer at be4energy, specializing in web frontend development on embedded Linux devices.
 - ✍️ I enjoy writing technical blogs and sharing my knowledge on web development, data management, and software engineering best practices.
 - ⚡ In my free time, I love exploring new technologies and contributing to open-source projects.
-- 📫 You can reach me via email at tajul.tuc@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/islam-tajul/).
+- 📫 You can reach me via email at tajul.tuc@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/islam-mdtajul/).
 
 ---
 
