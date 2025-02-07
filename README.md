@@ -46,11 +46,3 @@ I'm proficient in a variety of languages and tools, with a strong focus on web d
 </p>
 
 ---
-
-### :fire: GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islam-tajul&theme=dark&background=000000" alt="GitHub Streak" />
-</p>
-
----
