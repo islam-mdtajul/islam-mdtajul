@@ -47,11 +47,18 @@ I'm proficient in a variety of languages and tools, with a strong focus on web d
 
 ---
 
-### :fire: GitHub Stats
+### :fire: GitHub Activity & Highlights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islam-tajul&theme=dark&background=000000" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islam-tajul&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+   <img src="https://img.shields.io/github/last-commit/islam-tajul/your-repo?style=flat-square&logo=github&color=success" alt="Last Commit">
 </p>
+
+---
+
+### :star2: Featured Projects
+
+*   **[Project Name 1](link-to-repo)**: A brief, compelling description of the project, its purpose, and your role.  Highlight key technologies used and what you learned.
+*   **[Project Name 2](link-to-repo)**: Another interesting project with a concise description.
+*   **[Project Name 3](link-to-repo)**:  A project that demonstrates a particular skill or area of expertise.
 
 ---
