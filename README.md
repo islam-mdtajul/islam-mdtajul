@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   <h1>Hi 👋, I'm Md Tajul Islam</h1>
-  <pSoftware Engineer, be4energy GmbH</p>
+  <p>Software Engineer, be4energy GmbH</p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dvbGc3NDdnM3gxZTU2cWJsYXRzM3F1aHBpMXVqNGw0dmEzMG9ycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="200" alt="Animated Header" />
 </div>
 
